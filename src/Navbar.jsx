@@ -1,6 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
-import Tgit from "./ReactMenu/imgtgt";
+// import Tgit from "./ReactMenu/imgtgt";
 
 const Navbar = () => {
   return (
